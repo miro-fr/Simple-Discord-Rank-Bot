@@ -1,0 +1,16 @@
+{
+  "name": "discord-rank-bot",
+  "version": "0.1.0",
+  "description": "Bot Discord qui crée des rôles automatiquement et rank les membres selon activité voix/messages",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.12.0",
+    "dotenv": "^16.3.1"
+  }
+}
